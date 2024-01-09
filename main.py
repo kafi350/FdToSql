@@ -1,6 +1,5 @@
 __author__ = "Abdullahil Kafi"
 __copyright__ = "Copyright (C) 2022 Abdullahil Kafi"
-__license__ = "KHZG Projekt UKMD"
 __version__ = "1.0"
 
 import csv
